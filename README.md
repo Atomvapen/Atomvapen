@@ -3,7 +3,7 @@
                         ##           ---------  
                        .#            Languages:   Zig, VBA
                        #-            OS:          Windows 11
-                      ##             Editor:      Cursor
+                      ##             Editor:      Zed
                      -#              Hobbies:     Programming, gaming
                      #+      
                     ##       
